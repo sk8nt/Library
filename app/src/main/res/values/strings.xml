@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Library</string>
+    <string name="book_list">Список книг</string>
+    <string name="add_book">Добавить Книгу</string>
+    <string name="back">Назад</string>
+    <string name="author">Автор</string>
+    <string name="year">Год</string>
+    <string name="title">Название</string>
+</resources>
